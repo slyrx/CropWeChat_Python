@@ -14,9 +14,9 @@ args = {
     "touser":"LiuHongRu",
     "agentid":1000003,
     "msgtype": "text",
-    "climsgid":"climsgidclimsgid_%f"% (random.random()),
+    #"climsgid":"climsgidclimsgid_%f"% (random.random()),
     'text':{
-        "content":"欢迎来到这里！",
+        "content":"你好！",
     },
     "safe":0,
 }
